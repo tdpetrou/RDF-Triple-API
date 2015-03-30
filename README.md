@@ -8,7 +8,7 @@ The sentence is parsed using the [stanford parser] (http://nlp.stanford.edu/soft
 
 The endpoint for the api is http://www.newventify.com/rdf and has url parameter `sentence`
 
-A complete request would look like the following: `http://www.newventify.com/rdf?sentence=The man stood next to the refrigerator` and will return
+A complete request would look like the following: [http://www.newventify.com/rdf?sentence=The man stood next to the refrigerator](http://www.newventify.com/rdf?sentence=The man stood next to the refrigerator) and will return
 
 `
 {
