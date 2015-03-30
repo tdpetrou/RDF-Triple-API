@@ -2,7 +2,7 @@
 
 A simple API for extracting the RDF triple (subject, predicate, object) of any sentence.
 
-The algorithm implemented is taken from [this paper] (echo "# RDF-Triple-API" >> README.md) by Delia Rusu.
+The algorithm implemented is taken from [this paper] (http://ailab.ijs.si/dunja/SiKDD2007/Papers/Rusu_Trippels.pdf) by Delia Rusu.
 
 The sentence is parsed using the [stanford parser] (http://nlp.stanford.edu/software/lex-parser.shtml)
 
