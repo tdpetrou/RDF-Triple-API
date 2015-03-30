@@ -1,6 +1,6 @@
 # RDF-Triple-API
 
-A simple API for extracting the RDF triple (subject, predicate, object) of any sentence.
+A simple API for extracting the RDF triple (subject, predicate, object) of any sentence. The parsed sentence is also returned in addition to the triple.
 
 The algorithm implemented is taken from [this paper] (http://ailab.ijs.si/dunja/SiKDD2007/Papers/Rusu_Trippels.pdf) by Delia Rusu.
 
